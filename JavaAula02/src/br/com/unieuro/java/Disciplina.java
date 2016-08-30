@@ -12,6 +12,8 @@ public class Disciplina {
 		this.id = id;
 		this.credito = credito;
 		
+		
+		
 		this.departamento = departamento;
 	}
 	
